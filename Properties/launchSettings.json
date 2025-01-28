@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "hackathon_fakecheck": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7094",
+      "launchBrowser": false
+    }
+  }
+}
